@@ -44,8 +44,9 @@ from supabase import create_client
 # CONFIG
 ##############################################################
 
-SUPABASE_URL = "https://igcmuolrpapjrbucezko.supabase.co"
-SUPABASE_KEY = "sb_publishable_3CgfrcTkroF9vITNQCbL9g_EPO0nXdb"
+import os
+SUPABASE_URL = os.environ["SUPABASE_URL"]
+SUPABASE_KEY = os.environ["SUPABASE_KEY"]
 
 # Simulator
 BOOKINGS_PER_CYCLE    = 200

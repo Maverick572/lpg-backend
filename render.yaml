@@ -7,3 +7,6 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
+    environment:
+      SUPABASE_URL: https://xxxxx.supabase.co
+      SUPABASE_KEY: your_key

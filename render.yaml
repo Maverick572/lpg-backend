@@ -3,7 +3,7 @@ services:
     name: lpg-supply-chain-api
     runtime: python
     buildCommand: pip install --upgrade pip && pip install -r requirements.txt
-    startCommand: uvicorn server:app --host 0.0.0.0 --port $PORT
+    startCommand: uvicorn server:app --host 0.0.0.0 --port ${PORT:-8000}
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0

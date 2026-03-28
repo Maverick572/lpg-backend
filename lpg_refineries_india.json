@@ -1,0 +1,261 @@
+{
+  "title": "LPG-Producing Refineries in India",
+  "description": "All major oil refineries in India that produce LPG as a by-product. Data as of 2025.",
+  "source": "Petroleum Planning & Analysis Cell (PPAC), Ministry of Petroleum & Natural Gas, Government of India",
+  "total_count": 23,
+  "refineries": [
+    {
+      "id": 1,
+      "name": "Jamnagar Refinery (Reliance Industries)",
+      "operator": "Reliance Industries Limited (RIL)",
+      "state": "Gujarat",
+      "city": "Jamnagar",
+      "latitude": 22.3039,
+      "longitude": 70.0530,
+      "capacity_mmtpa": 68.2,
+      "notes": "World's largest refinery complex. Produces LPG, MS, HSD, ATF, naphtha, petrochemicals."
+    },
+    {
+      "id": 2,
+      "name": "Vadinar Refinery (Nayara Energy)",
+      "operator": "Nayara Energy Limited",
+      "state": "Gujarat",
+      "city": "Vadinar, Devbhumi Dwarka",
+      "latitude": 22.4667,
+      "longitude": 69.3667,
+      "capacity_mmtpa": 20.0,
+      "notes": "Formerly Essar Oil refinery. Produces LPG, MS, HSD, petrochemicals."
+    },
+    {
+      "id": 3,
+      "name": "Koyali Refinery (Gujarat Refinery, IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Gujarat",
+      "city": "Koyali, Vadodara",
+      "latitude": 22.3508,
+      "longitude": 73.1325,
+      "capacity_mmtpa": 18.0,
+      "notes": "One of IOCL's largest refineries. Produces LPG, MS, HSD, ATF and other products."
+    },
+    {
+      "id": 4,
+      "name": "Panipat Refinery (IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Haryana",
+      "city": "Panipat",
+      "latitude": 29.3909,
+      "longitude": 76.9635,
+      "capacity_mmtpa": 25.0,
+      "notes": "Integrated refinery-petrochemical complex. Produces LPG, naphtha, PX, MEG, PTA."
+    },
+    {
+      "id": 5,
+      "name": "Mathura Refinery (IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "latitude": 27.4659,
+      "longitude": 77.6713,
+      "capacity_mmtpa": 11.0,
+      "notes": "Refinery serving northern India. Produces LPG, MS, HSD, kerosene."
+    },
+    {
+      "id": 6,
+      "name": "Barauni Refinery (IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Bihar",
+      "city": "Barauni, Begusarai",
+      "latitude": 25.4606,
+      "longitude": 86.0949,
+      "capacity_mmtpa": 9.0,
+      "notes": "One of first public sector refineries in India (est. 1964). Produces LPG and other petroleum products."
+    },
+    {
+      "id": 7,
+      "name": "Haldia Refinery (IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "West Bengal",
+      "city": "Haldia",
+      "latitude": 22.0601,
+      "longitude": 88.0678,
+      "capacity_mmtpa": 8.0,
+      "notes": "Serves eastern India. Produces LPG, MS, HSD, ATF and other petroleum products."
+    },
+    {
+      "id": 8,
+      "name": "Digboi Refinery (IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Assam",
+      "city": "Digboi",
+      "latitude": 27.3889,
+      "longitude": 95.6194,
+      "capacity_mmtpa": 0.65,
+      "notes": "Asia's oldest refinery, commissioned 1901. Produces LPG, wax, lubricants."
+    },
+    {
+      "id": 9,
+      "name": "Guwahati Refinery (IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Assam",
+      "city": "Noonmati, Guwahati",
+      "latitude": 26.1857,
+      "longitude": 91.7476,
+      "capacity_mmtpa": 1.0,
+      "notes": "Northeast India's main refinery. Produces LPG, MS, HSD, kerosene."
+    },
+    {
+      "id": 10,
+      "name": "Bongaigaon Refinery (IOCL / BRPL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Assam",
+      "city": "Bongaigaon",
+      "latitude": 26.4748,
+      "longitude": 90.5582,
+      "capacity_mmtpa": 2.35,
+      "notes": "Formerly Bongaigaon Refinery & Petrochemicals Ltd (BRPL). Produces LPG and petroleum products."
+    },
+    {
+      "id": 11,
+      "name": "Paradip Refinery (IOCL)",
+      "operator": "Indian Oil Corporation Limited (IOCL)",
+      "state": "Odisha",
+      "city": "Paradip",
+      "latitude": 20.3168,
+      "longitude": 86.6119,
+      "capacity_mmtpa": 15.0,
+      "notes": "Modern refinery. Produces LPG, BS-VI fuels, petrochemicals."
+    },
+    {
+      "id": 12,
+      "name": "Numaligarh Refinery (NRL)",
+      "operator": "Numaligarh Refinery Limited (NRL)",
+      "state": "Assam",
+      "city": "Numaligarh, Golaghat",
+      "latitude": 26.6600,
+      "longitude": 93.6600,
+      "capacity_mmtpa": 3.0,
+      "notes": "Known as Assam Accord Refinery. Products include LPG, naphtha, MS, ATF, HSD, petroleum coke."
+    },
+    {
+      "id": 13,
+      "name": "Mumbai Refinery (HPCL)",
+      "operator": "Hindustan Petroleum Corporation Limited (HPCL)",
+      "state": "Maharashtra",
+      "city": "Mahul, Mumbai",
+      "latitude": 19.0447,
+      "longitude": 72.9108,
+      "capacity_mmtpa": 9.5,
+      "notes": "Commissioned 1954. Produces LPG, naphtha, MS, ATF, HSD, lubricants, bitumen."
+    },
+    {
+      "id": 14,
+      "name": "Visakh Refinery (HPCL)",
+      "operator": "Hindustan Petroleum Corporation Limited (HPCL)",
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "latitude": 17.6999,
+      "longitude": 83.2978,
+      "capacity_mmtpa": 15.0,
+      "notes": "First East Coast refinery of India (1957). Produces LPG, propylene, naphtha, MS, ATF, HSD, bitumen."
+    },
+    {
+      "id": 15,
+      "name": "Guru Gobind Singh Refinery (HMEL)",
+      "operator": "HPCL-Mittal Energy Limited (HMEL)",
+      "state": "Punjab",
+      "city": "Bathinda",
+      "latitude": 30.2110,
+      "longitude": 74.9455,
+      "capacity_mmtpa": 11.3,
+      "notes": "JV between HPCL and Mittal Energy Investments. Produces LPG, BS-VI fuels, petrochemicals."
+    },
+    {
+      "id": 16,
+      "name": "Mumbai Refinery (BPCL)",
+      "operator": "Bharat Petroleum Corporation Limited (BPCL)",
+      "state": "Maharashtra",
+      "city": "Mahul, Mumbai",
+      "latitude": 19.0505,
+      "longitude": 72.9024,
+      "capacity_mmtpa": 12.0,
+      "notes": "BPCL flagship refinery, West Coast. Produces LPG, MS, HSD, ATF, petrochemical feedstock."
+    },
+    {
+      "id": 17,
+      "name": "Kochi Refinery (BPCL)",
+      "operator": "Bharat Petroleum Corporation Limited (BPCL)",
+      "state": "Kerala",
+      "city": "Ambalamugal, Kochi",
+      "latitude": 9.9606,
+      "longitude": 76.3578,
+      "capacity_mmtpa": 15.5,
+      "notes": "Integrated refinery-petrochemical complex in southern India. Produces LPG, MS, HSD, ATF."
+    },
+    {
+      "id": 18,
+      "name": "Bina Refinery (BORL / BPCL)",
+      "operator": "Bharat Oman Refineries Limited (BORL)",
+      "state": "Madhya Pradesh",
+      "city": "Bina",
+      "latitude": 24.1724,
+      "longitude": 78.1357,
+      "capacity_mmtpa": 7.8,
+      "notes": "JV between BPCL and Oman Oil Company. Produces LPG, MS, HSD, ATF, naphtha."
+    },
+    {
+      "id": 19,
+      "name": "Mangalore Refinery (MRPL)",
+      "operator": "Mangalore Refinery and Petrochemicals Limited (MRPL)",
+      "state": "Karnataka",
+      "city": "Katipalla, Mangaluru",
+      "latitude": 12.9641,
+      "longitude": 74.8593,
+      "capacity_mmtpa": 15.0,
+      "notes": "ONGC subsidiary. Produces LPG, MS, HSD, ATF, naphtha, polypropylene."
+    },
+    {
+      "id": 20,
+      "name": "Manali Refinery (CPCL)",
+      "operator": "Chennai Petroleum Corporation Limited (CPCL)",
+      "state": "Tamil Nadu",
+      "city": "Manali, Chennai",
+      "latitude": 13.1667,
+      "longitude": 80.2667,
+      "capacity_mmtpa": 10.5,
+      "notes": "IOCL subsidiary. Produces LPG, MS, HSD, ATF, lube base stocks, bitumen, hexane."
+    },
+    {
+      "id": 21,
+      "name": "Cauvery Basin Refinery (CPCL)",
+      "operator": "Chennai Petroleum Corporation Limited (CPCL)",
+      "state": "Tamil Nadu",
+      "city": "Nagapattinam",
+      "latitude": 10.7670,
+      "longitude": 79.8420,
+      "capacity_mmtpa": 1.0,
+      "notes": "CPCL second refinery. Produces LPG, naphtha, kerosene, HSD."
+    },
+    {
+      "id": 22,
+      "name": "Tatipaka Mini Refinery (ONGC)",
+      "operator": "Oil and Natural Gas Corporation (ONGC)",
+      "state": "Andhra Pradesh",
+      "city": "Tatipaka, East Godavari",
+      "latitude": 16.8200,
+      "longitude": 82.0000,
+      "capacity_mmtpa": 0.08,
+      "notes": "Mini refinery processing local Godavari basin crude. Produces LPG, naphtha, HSD."
+    },
+    {
+      "id": 23,
+      "name": "Barmer Refinery (HRRL) [Under commissioning]",
+      "operator": "HPCL Rajasthan Refinery Limited (HRRL)",
+      "state": "Rajasthan",
+      "city": "Pachpadra, Barmer",
+      "latitude": 25.9290,
+      "longitude": 71.9100,
+      "capacity_mmtpa": 9.0,
+      "notes": "JV between HPCL (74%) and Govt of Rajasthan (26%). Greenfield refinery-cum-petrochemical complex."
+    }
+  ]
+}
